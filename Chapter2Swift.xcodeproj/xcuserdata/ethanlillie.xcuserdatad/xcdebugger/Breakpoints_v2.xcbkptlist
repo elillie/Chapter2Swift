@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chapter2Swift/main.swift"
+            timestampString = "430850990.010539"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "merge(_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chapter2Swift.merge (Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Int, Swift.Int) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Chapter2Swift"
+                  urlString = "file:///Users/ethanlillie/Documents/Code:QS/Algorithms:DataStructures/Chapter2Swift/Chapter2Swift/main.swift"
+                  timestampString = "430851158.058322"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "883">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chapter2Swift.merge (Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Int, Swift.Int) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "Chapter2Swift"
+                  urlString = "file:///Users/ethanlillie/Documents/Code:QS/Algorithms:DataStructures/Chapter2Swift/Chapter2Swift/main.swift"
+                  timestampString = "430851158.058613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "931">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
